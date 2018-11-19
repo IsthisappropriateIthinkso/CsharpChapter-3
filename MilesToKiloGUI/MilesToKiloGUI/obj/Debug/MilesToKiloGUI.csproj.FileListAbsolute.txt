@@ -1,0 +1,18 @@
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\MilesToKiloGUI\MilesToKiloGUI\bin\Debug\MilesToKiloGUI.exe.config
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\MilesToKiloGUI\MilesToKiloGUI\bin\Debug\MilesToKiloGUI.exe
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\MilesToKiloGUI\MilesToKiloGUI\bin\Debug\MilesToKiloGUI.pdb
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.Form1.resources
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.Properties.Resources.resources
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.csproj.GenerateResource.cache
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.csproj.CoreCompileInputs.cache
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.exe
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.pdb
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\Chapter 3\MilesToKiloGUI\MilesToKiloGUI\bin\Debug\MilesToKiloGUI.exe.config
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\Chapter 3\MilesToKiloGUI\MilesToKiloGUI\bin\Debug\MilesToKiloGUI.exe
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\Chapter 3\MilesToKiloGUI\MilesToKiloGUI\bin\Debug\MilesToKiloGUI.pdb
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\Chapter 3\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.Form1.resources
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\Chapter 3\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.Properties.Resources.resources
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\Chapter 3\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.csproj.GenerateResource.cache
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\Chapter 3\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.csproj.CoreCompileInputs.cache
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\Chapter 3\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.exe
+C:\Users\Adam Gibson\Desktop\Github Repository\cSharpFolder\Chapter 3\MilesToKiloGUI\MilesToKiloGUI\obj\Debug\MilesToKiloGUI.pdb
